@@ -1,6 +1,10 @@
 # Bem vindos
-## meu n
 
+## Meu nome é Carlos Daniel
+## Estou iniciando minha jornada na programação, planejo seguir carreira com diversos projetos.
+
+
+### Pode entrar em contato comigo no email - fernandescarlos1408@gmail.com
 
 
 
